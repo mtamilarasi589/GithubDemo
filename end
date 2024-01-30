@@ -1,0 +1,100 @@
+[33mcommit 9530e1f791069c241627a7926dc4b205ab881536[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msanjaiy[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 39d5941 b466530
+Author: mtamilarasi589 <67828752+mtamilarasi589@users.noreply.github.com>
+Date:   Tue Jan 30 10:06:12 2024 +0530
+
+    Merge pull request #2 from mtamilarasi/module2
+    
+    Module2
+
+[33mcommit b46653006fbc3be676661d3cf49d68d7b98023fe[m
+Author: mtamilarasi589 <67828752+mtamilarasi589@users.noreply.github.com>
+Date:   Tue Jan 30 09:59:31 2024 +0530
+
+    Update mod1.html
+
+[33mcommit e4872a2b9523b806e1ceb88a1fc7564f914f700e[m
+Merge: f5250a7 1f3914f
+Author: tamilarasi <replytotamil@gmail.com>
+Date:   Tue Jan 30 09:52:04 2024 +0530
+
+    module2 is merged with module1
+
+[33mcommit f5250a79a1a1b8c891eacf505947422b1fb38459[m
+Author: tamilarasi <replytotamil@gmail.com>
+Date:   Tue Jan 30 09:45:00 2024 +0530
+
+    updated mod1.html in module2
+
+[33mcommit 1f3914ff22ac9023dd2f4ece5b58a4004ec9cef5[m
+Author: tamilarasi <replytotamil@gmail.com>
+Date:   Tue Jan 30 09:43:59 2024 +0530
+
+    updated mod1.html in module1
+
+[33mcommit f466c51257e9585f8b0ba399b6730e91775e27d0[m
+Author: tamilarasi <replytotamil@gmail.com>
+Date:   Tue Jan 30 09:29:27 2024 +0530
+
+    created mod1.html in module2
+
+[33mcommit 8f93ee894e0205f4e199c1b6e7e24b8ad5321cef[m
+Author: tamilarasi <replytotamil@gmail.com>
+Date:   Tue Jan 30 09:21:59 2024 +0530
+
+    updated index.html and created mod1.html
+
+[33mcommit 39d59417fbcfa2581fa673ffef6f0eae1061c180[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Tue Jan 30 03:00:05 2024 +0530
+
+    updated heading in index.html
+
+[33mcommit f2ad6cda5d594854621057f1c09793e297a339cd[m
+Author: mtamilarasi589 <67828752+mtamilarasi589@users.noreply.github.com>
+Date:   Tue Jan 30 02:54:24 2024 +0530
+
+    Update index.html
+
+[33mcommit fb9216619e4e634f19da44d224fed8b90396924c[m
+Merge: 2b83c9e 2fb3e78
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 21:31:18 2024 +0530
+
+    Merge branch 'main' of https://github.com/mtamilarasi589/GithubDemo
+
+[33mcommit 2b83c9e4c0248e119f1a8e6105f044a5f8eaa0b3[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 20:36:27 2024 +0530
+
+    created commands and data files
+
+[33mcommit c8d46a16f2e6e4eea801cc6fb6fe379a2a13e5e4[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 19:21:07 2024 +0530
+
+    updated title in index.html file
+
+[33mcommit 1b2006b9747efdfea7577b0ba027b63b68f33124[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 19:07:23 2024 +0530
+
+    updated styles in index.html file
+
+[33mcommit 2dc6b948dab9155aa5df4693689f3f6861b99f12[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 19:00:28 2024 +0530
+
+    created styles.css file
+
+[33mcommit 6ef718303e6686e1578fcb9feac51226d526911a[m
+Author: Tamilarasi <mtamilarasi589@gmail.com>
+Date:   Mon Jan 29 18:49:43 2024 +0530
+
+    created index.html file
+
+[33mcommit 2fb3e78ca491998b3bf19c6107ec8340617c4fd9[m
+Author: mtamilarasi589 <67828752+mtamilarasi589@users.noreply.github.com>
+Date:   Mon Jan 29 18:16:38 2024 +0530
+
+    Initial commit
